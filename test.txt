@@ -1,2 +1,3 @@
 this is a test text file
 another new line
+3rd line
