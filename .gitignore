@@ -1,8 +1,9 @@
-/node_modules
-/public/storage
-/storage/*.key
-vendor/
+/vendor
+composer.phar
+composer.lock
+.DS_Store
+Thumbs.db
+/phpunit.xml
 /.idea
-Homestead.json
-Homestead.yaml
-.env
+/.vscode
+.phpunit.result.cache
